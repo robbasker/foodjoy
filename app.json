@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "foodjoy2",
-    "slug": "foodjoy2",
+    "name": "foodjoy",
+    "slug": "foodjoy",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "An app that reduces your food waste by intelligently planning your meals and shopping list."
   }
 }
